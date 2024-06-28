@@ -1,0 +1,23 @@
+.Home_page{
+    margin-top: 10%;
+    margin-left: 20vw;
+    display: flex;
+    height : 15vw;
+    width:  60vw;
+    flex-direction: column;
+    align-items: center;
+    background-color: #9ec1cc;
+}
+
+.list{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.list-item{
+    width: 15%;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+.login-div{
+    height: 20vw;
+    width : 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.login-div form{
+    display: flex;
+    flex-direction: column;
+}
+.login-div form input{
+    margin-bottom: 20px;
+}
